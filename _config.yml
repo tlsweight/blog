@@ -1,12 +1,12 @@
-title: Add Extra layer to TLS Network
+title: Boosting Website Security with an Extra TLS Layer
 author:
-  name: vkosuri
+  name: Malli Kosuri
   email: tlsweight4u@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write posts about AI/ML in security, Pentest, F5 BigIP, OpenSSL, Proxy, FIPS, NetHSM, Crypto
+  Create informative blog posts on AI and Machine Learning in cybersecurity, Penetration Testing (Pentest), F5 BigIP optimization, OpenSSL best practices, Proxy server configurations, FIPS compliance, NetHSM usage, and the latest developments in cryptographic technologies.
 
 # Build settings
 
@@ -31,7 +31,7 @@ minima:
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-  #   - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+     - { platform: github,         user_url: "https://github.com/tlsweight" }
   #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
   #   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
@@ -40,15 +40,16 @@ minima:
   #   - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
   #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #   - { platform: telegram,       user_url: "https://t.me/jekyll" }
-  #   - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
+     - { platform: twitter,        user_url: "https://twitter.com/tlsweight" }
   #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
-# header_pages:
-#   - about.md
+header_pages:
+   - about.md
+   - contact.md
 
 # Set to `true` to show excerpts on the homepage.
 #
-# show_excerpts: false
+show_excerpts: true
