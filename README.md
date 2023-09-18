@@ -1,2 +1,1 @@
-# tlsweight.gihub.io
-Penting, 
+This is the minima Jekyll theme. 
