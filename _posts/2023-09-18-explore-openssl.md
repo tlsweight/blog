@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Exploring OpenSSL Bash Script for Enhanced Security
+title: "Automating OpenSSL with a Bash Script: Certificate Management Made Easy"
 date: 2023-09-18
-categories: [security, openssl, scripting]
+categories: openssl
 ---
 
 OpenSSL is a Swiss Army knife for managing digital certificates and performing cryptographic tasks. In this post, we'll embark on a journey to discover a powerful OpenSSL bash script that can help us secure our systems and data. Not only will we provide the script, but we'll also walk you through its functionality.
