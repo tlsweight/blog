@@ -29,9 +29,8 @@ C = ${country_code}
 CN = ${common_name}
 EOF
 ```
-[req]: This section defines the settings for certificate request generation. default_bits specifies the key size (2048 bits in this example), prompt is set to no to avoid prompting for certificate details interactively, and distinguished_name points to the dn section for Subject details.
-
-[dn]: This section defines the Subject field of the certificate, which includes the Country (C) and Common Name (CN). ${country_code} and ${common_name} are variables passed as command line arguments.
+- [req]: This section defines the settings for certificate request generation. default_bits specifies the key size (2048 bits in this example), prompt is set to no to avoid prompting for certificate details interactively, and distinguished_name points to the dn section for Subject details.
+- [dn]: This section defines the Subject field of the certificate, which includes the Country (C) and Common Name (CN). ${country_code} and ${common_name} are variables passed as command line arguments.
 
 ### Generating the CA Certificate:
 
@@ -39,13 +38,13 @@ The script generates the CA certificate with the specified Subject and extension
 ```bash
 openssl req -new -x509 -key "${output_prefix}_private.pem" -out "${output_prefix}_public.pem" -config ca-config.cnf -extensions v3_ca -subj "/C=${country_code}/CN=${common_name}/SAN=${san}"
 ```
--new: This option specifies that a new certificate request should be created.
--x509: This option indicates that a self-signed certificate should be generated.
--key "${output_prefix}_private.pem": This specifies the private key file to use.
--out "${output_prefix}_public.pem": This specifies the output file for the generated CA certificate.
--config ca-config.cnf: This specifies the configuration file with the certificate details.
--extensions v3_ca: This includes the v3_ca extension in the certificate, which is typically used for CA certificates.
--subj "/C=${country_code}/CN=${common_name}/SAN=${san}": This sets the Subject of the certificate, including the country code (C), Common Name (CN), and Subject Alternative Name (SAN) based on the provided arguments.
+- -new: This option specifies that a new certificate request should be created.
+- -x509: This option indicates that a self-signed certificate should be generated.
+- -key "${output_prefix}_private.pem": This specifies the private key file to use.
+- -out "${output_prefix}_public.pem": This specifies the output file for the generated CA certificate.
+- -config ca-config.cnf: This specifies the configuration file with the certificate details.
+- -extensions v3_ca: This includes the v3_ca extension in the certificate, which is typically used for CA certificates.
+- -subj "/C=${country_code}/CN=${common_name}/SAN=${san}": This sets the Subject of the certificate, including the country code (C), Common Name (CN), and Subject Alternative Name (SAN) based on the provided arguments.
 
 ### Cleaning Up:
 

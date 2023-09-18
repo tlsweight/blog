@@ -5,7 +5,7 @@ keywords:
 seo_title: Popular secure scanner Frameworks
 seo_description: Qucikly know what are different secure scanner framework avaliable.
 layout: post
-title: "Unlocking the Arsenal of Cybersecurity Tools: Exploring Popular Secure Scanner Frameworks"
+title: "Unlocking the Arsenal of Cybersecurity Tools: Exploring Popular Vulnerability Scanning Frameworks"
 categories: security
 ---
 **Unlocking the Arsenal of Cybersecurity Tools: A Thrilling Journey**
