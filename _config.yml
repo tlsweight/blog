@@ -6,8 +6,8 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  This blog talks about AI/ML in scurity, Application Delivery Control, Certificate Authority, Test Automation,
-  Secure your TLS network using Web Proxies
+  This blog talks about AI/ML in security, Application Delivery Control, Certificate Authority, Test Automation,
+  Secure your TLS network using Web Proxies in simple english
 
 # Build settings
 

@@ -1,8 +1,16 @@
 ---
+keywords:
+    - Popular Phishing frameworks
+    - Quick sanpshot of Phishing frameworks
 layout: post
-title: "Phishing frameworks"
+seo_title: Popular Phishing Frameworks
+seo_description: Qucikly know what are different phishing framework avaliable.
+title: "Phishing Frameworks"
 categories: security
 ---
+The below table provides a quick snapshot fo different phising framework, 
+the language implemented, supported operating ssytems, license and Popularaity
+of the tool which is avaliable today
 
 | Scanner Name           | Language         | Operating System    | License           | About                                              | Most Popular |
 |------------------------|------------------|---------------------|-------------------|---------------------------------------------------|--------------|
