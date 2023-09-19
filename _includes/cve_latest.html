@@ -1,0 +1,89 @@
+
+<div id="cve-app">
+  <label for="start-date">Start Date:</label>
+  <input type="text" id="start-date" placeholder="Select start date" />
+
+  <label for="end-date">End Date:</label>
+  <input type="text" id="end-date" placeholder="Select end date" />
+
+  <button id="fetch-cves">Fetch CVEs</button>
+
+  <div id="cve-list">
+    <!-- CVEs will be displayed in a table here -->
+    <table>
+      <thead>
+        <tr>
+          <th>CVE ID</th>
+          <th>Description</th>
+          <th>CVE Vector</th>
+          <th>Base Score</th>
+          <th>Base Severity</th>
+        </tr>
+      </thead>
+      <tbody id="cve-table-body"></tbody>
+    </table>
+  </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const startDateInput = document.getElementById("start-date");
+    const endDateInput = document.getElementById("end-date");
+    const fetchButton = document.getElementById("fetch-cves");
+    const cveTableBody = document.getElementById("cve-table-body");
+
+    // Initialize Flatpickr for start and end dates with the correct date format
+    const flatpickrOptions = {
+      enableTime: true,
+      dateFormat: "Y-m-d\\TH:i:S\\Z",
+      time_24hr: true,
+      defaultDate: new Date(),
+    };
+    flatpickr(startDateInput, flatpickrOptions);
+    flatpickr(endDateInput, flatpickrOptions);
+
+    fetchButton.addEventListener("click", async () => {
+      const startDate = encodeURIComponent(startDateInput.value);
+      const endDate = encodeURIComponent(endDateInput.value);
+      const apiUrl = `https://services.nvd.nist.gov/rest/json/cves/2.0/?pubStartDate=${startDate}&pubEndDate=${endDate}&resultsPerPage=20`;
+
+      try {
+        const response = await fetch(apiUrl);
+        const data = await response.json();
+
+        // Check if the response contains CVEs
+        if (!data || !data.vulnerabilities || data.vulnerabilities.length === 0) {
+          console.error("No CVEs found for the selected date range.");
+          return;
+        }
+
+        const cves = data.vulnerabilities;
+
+        // Clear existing CVEs in the table
+        cveTableBody.innerHTML = "";
+
+        // Display CVEs in the table
+        cves.forEach((cve) => {
+          const cveId = cve.cve.id;
+          const description = cve.cve.descriptions[0].value;
+          const cvssVector = cve.cve.metrics.cvssMetricV31[0].cvssData.vectorString || "N/A";
+          const baseScore = cve.cve.metrics.cvssMetricV31[0].cvssData.baseScore || "N/A";
+          const baseSeverity = cve.cve.metrics.cvssMetricV31[0].cvssData.baseSeverity || "N/A";
+
+          const cveTableRow = document.createElement("tr");
+          cveTableRow.innerHTML = `
+            <td>${cveId}</td>
+            <td>${description}</td>
+            <td>${cvssVector}</td>
+            <td>${baseScore}</td>
+            <td>${baseSeverity}</td>
+          `;
+
+          cveTableBody.appendChild(cveTableRow);
+        });
+      } catch (error) {
+        console.error("Error fetching CVEs", error);
+      }
+    });
+  });
+</script>
