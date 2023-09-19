@@ -1,3 +1,5 @@
+# GTag
+2023-09-19 Enable google analytics
 # Theme
 2023-9-18 Back to Minima
 # Theme
