@@ -38,7 +38,7 @@ Jekyll::Hooks.register :pages, :post_write do |page|
 
       cve_table += "</tbody></table>"
       # Replace the content of the 'cve.md' page with the generated table
-      page.cve_content = cve_table
+      page.content = cve_table
     else
       puts "Failed to fetch CVE data from NVD API."
     end

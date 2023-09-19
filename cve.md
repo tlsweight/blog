@@ -7,7 +7,7 @@ permalink: /cve/
 Common Vulnerabilities and Exposures (CVEs) are essential to understand and mitigate security risks. Here, you can find up-to-date information on the latest CVEs, including their details and severity.
 
 <div>
-  {{ cve_content }}
+  {{ content }}
 </div>
 
 For more information on TLSWeight, check out our [TLSWeight Guide](about.md).
