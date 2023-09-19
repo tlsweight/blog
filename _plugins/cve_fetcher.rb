@@ -2,6 +2,8 @@ require 'http'
 require 'date'
 require 'json'
 
+puts "cve_fetcher.rb is running..."
+
 Jekyll::Hooks.register :pages, :post_write do |page|
   if page.name == "cve.md" # Adjust the page name as needed
     # Get the configured start and end dates or use default values (last month)
@@ -36,7 +38,7 @@ Jekyll::Hooks.register :pages, :post_write do |page|
 
       cve_table += "</tbody></table>"
       # Replace the content of the 'cve.md' page with the generated table
-      page.content = cve_table
+      page.cve_content = cve_table
     else
       puts "Failed to fetch CVE data from NVD API."
     end
