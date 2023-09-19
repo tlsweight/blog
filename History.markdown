@@ -1,4 +1,6 @@
-#Favicon
+# Get Latest CVEs from NVD
+2023-09-19 Get Latest CVEs from NVD Vulnerability
+# Favicon
 2023009-19 Enable Favicons
 # GTag
 2023-09-19 Enable google analytics
