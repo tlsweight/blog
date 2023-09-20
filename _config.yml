@@ -1,7 +1,7 @@
-title: "Fortifying Your Online Presence with an Extra TLS Layer and Prompt Engineering"
+title: "Securing Your Online Presence: TLS, FIPS, AI/ML, and More"
 author:
   name: Malli Kosuri
-  email: tlsweight4u@gmail.com
+  email: admin@tlsweight.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -55,10 +55,3 @@ header_pages:
 #
 show_excerpts: true
 google_analytics: G-4D4NM05PPE
-
-# see cve https://nvd.nist.gov/developers/vulnerabilities
-# examples
-# https://services.nvd.nist.gov/rest/json/cves/2.0/?lastModStartDate=2021-08-04T13:00:00.000%2B01:00&lastModEndDate=2021-10-22T13:36:00.000%2B01:00
-cve_start_date: ""
-cve_end_date: ""
-cve_display_rows: 10
