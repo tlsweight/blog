@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About TLSWeight
+title: About
 permalink: /about/
 ---
-
-# About TLSWeight
 
 Welcome to **TLSWeight**, your premier destination for comprehensive cybersecurity insights. We pride ourselves on being at the forefront of digital security, harnessing cutting-edge technology, expert knowledge, and innovative generative AI to provide you with unparalleled expertise in the field.
 

@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Contact TLSWeight
+title: Contact
 permalink: /contact/
 ---
-
-# Contact TLSWeight
 
 Your feedback, questions, and suggestions are invaluable to us. Feel free to reach out anytime, and we'll be delighted to assist you with your inquiries or concerns. Here are several convenient ways to connect with TLSWeight:
 

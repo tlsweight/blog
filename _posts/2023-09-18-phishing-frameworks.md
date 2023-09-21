@@ -7,6 +7,7 @@ seo_title: Popular Phishing Frameworks
 seo_description: Qucikly know what are different phishing framework avaliable.
 title: "Exploring the Landscape of Popular Phishing Frameworks"
 categories: security
+author: vkosuri
 ---
 **Explore Various Phishing Frameworks: Language, OS Compatibility, Licensing, and Popularity**
 
