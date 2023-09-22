@@ -1,13 +1,12 @@
 ---
-keywords:
-    - Popular Phishing frameworks
-    - Quick sanpshot of Phishing frameworks
 layout: post
-seo_title: Popular Phishing Frameworks
-seo_description: Qucikly know what are different phishing framework avaliable.
 title: "Exploring the Landscape of Popular Phishing Frameworks"
 categories: security
 author: vkosuri
+image: assets/images/popular_phishing.jpg
+tags: [tools]
+date: 2023-09-18
+categories: [security]
 ---
 **Explore Various Phishing Frameworks: Language, OS Compatibility, Licensing, and Popularity**
 

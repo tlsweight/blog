@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Automating OpenSSL with a Bash Script: Certificate Management Made Easy"
+image: assets/images/openssl_gen.jpg
+tags: [scripts]
 date: 2023-09-18
-categories: openssl
+categories: [security, openssl]
 author: vkosuri
 ---
 
