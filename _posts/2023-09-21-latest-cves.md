@@ -19,4 +19,6 @@ The full list API documentation can fetch from here https://nvd.nist.gov/develop
 **Integration and Automation:**
 Integrate the NVD API into your security tools to automate CVE monitoring, ensuring you're promptly alerted to potential threats.
 
+The below widget will list all the CVEs which are from between the dates.
+
 {% include cve_latest.html %}

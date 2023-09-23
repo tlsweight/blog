@@ -53,4 +53,4 @@ If you have specific topics you'd like us to cover or any inquiries, please don'
 
 Thank you for choosing TLSWeight as your trusted cybersecurity resource. Our unique fusion of AI and human expertise is here to keep you well-informed and secure.
 
-[Contact Us](contact.md) | [Privacy Policy](privacy-policy.md) | [Terms of Use](terms.md)
+[Contact Us](contact.html) | [Privacy Policy](privacy-policy.html) | [Terms of Use](terms.html)
