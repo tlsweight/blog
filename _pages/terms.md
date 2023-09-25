@@ -21,7 +21,7 @@ This website may contain links to external websites for your convenience. TLSWei
 
 ## Privacy Policy
 
-TLSWeight is committed to protecting your privacy. Please refer to our [Privacy Policy](/privacy/) to understand how we collect, use, and safeguard your personal information.
+TLSWeight is committed to protecting your privacy. Please refer to our [Privacy Policy](privacy-policy.html) to understand how we collect, use, and safeguard your personal information.
 
 ## Disclaimer of Liability
 
@@ -33,6 +33,6 @@ TLSWeight reserves the right to update or modify these terms and conditions at a
 
 ## Contact Us
 
-If you have any questions or concerns about these terms and conditions, please [contact us](/contact/).
+If you have any questions or concerns about these terms and conditions, please [contact us](contact.html).
 
 Last updated: 2023-18-09

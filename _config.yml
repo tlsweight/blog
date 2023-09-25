@@ -5,7 +5,7 @@ logo: 'assets/images/tlsweight_log.png'
 favicon: 'assets/images/favicon_package_v0.16/favicon.ico'
 baseurl: ''
 disqus: 'tlsweight'
-email: 'admin@tlsweight.com'
+email: 'vkosuri@tlsweight.com'
 mailchimp-list: ''
 
 include: ["_pages"]

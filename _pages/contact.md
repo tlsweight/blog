@@ -7,7 +7,7 @@ Your feedback, questions, and suggestions are invaluable to us. Feel free to rea
 
 ## Contact Information
 
-- **Email**: You can send us an email at [admin@tlsweight.com](mailto:admin@tlsweight.com) for general inquiries, partnership opportunities, or any other questions you may have. We strive to respond promptly to all emails and look forward to hearing from you.
+- **Email**: You can send us an email at [admin@tlsweight.com](mailto:vkosuri@tlsweight.com) for general inquiries, partnership opportunities, or any other questions you may have. We strive to respond promptly to all emails and look forward to hearing from you.
 
 - **Social Media**: Connect with us on our vibrant social media channels, where we share updates, engage in discussions, and provide cybersecurity insights:
   - [Twitter](https://twitter.com/tlsweight): Follow us on Twitter for real-time updates, cybersecurity news, and interactive discussions with our community.

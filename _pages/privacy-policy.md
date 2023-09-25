@@ -55,6 +55,6 @@ We may update this Privacy Policy from time to time. The date of the last update
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please [contact us](/contact/).
+If you have any questions or concerns about this Privacy Policy, please [contact us](contact.html).
 
 Last updated: 2023-18-09
