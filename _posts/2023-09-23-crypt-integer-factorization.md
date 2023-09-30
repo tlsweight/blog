@@ -5,7 +5,7 @@ date: 2023-09-23
 categories: [Crypto-Math-Series]
 image: assets/images/integers_problem.jpg
 author: vkosuri
-tags: [featured]
+tags: [security, crypto]
 ---
 
 In our "Crypto Math Problems" series, we explore fascinating concepts that play a crucial role in the world of cryptography. Today, we're delving into the enigmatic **Integer Factorization Problem** and why it matters.

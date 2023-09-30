@@ -7,6 +7,7 @@ image: assets/images/popular_phishing.jpg
 tags: [tools]
 date: 2023-09-18
 categories: [security]
+tags: [featured]
 ---
 **Explore Various Phishing Frameworks: Language, OS Compatibility, Licensing, and Popularity**
 

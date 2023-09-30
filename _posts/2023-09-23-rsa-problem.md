@@ -5,7 +5,7 @@ date: 2023-09-23
 categories: [Crypto-Math-Series]
 image: assets/images/rsa_problem.jpg
 author: vkosuri
-tags: [featured]
+tags: [Cryptography, Security, Encryption]
 ---
 Welcome back to our "Crypto Math Series," where we journey deeper into the realm of cryptography. Today, we're unraveling the enigmatic RSA Problem, a central challenge in securing digital communication and information. Join us as we explore when and how this problem arises, discover its resolution, and delve into a real-world scenario where RSA shines. 🚀🔢🔑🔐
 

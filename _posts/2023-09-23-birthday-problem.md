@@ -5,7 +5,7 @@ date: 2023-09-23
 categories: [Crypto-Math-Series]
 image: assets/images/crypto_math_1.jpg
 author: vkosuri
-tags: [featured]
+tags: [security, crypto]
 ---
 Welcome to the grand finale of our "Crypto Math Series," where we've journeyed through the enchanting world of cryptography. In this concluding episode, we shine a spotlight on the intriguing Birthday Problem, a phenomenon that emerges in cryptographic settings. Join us as we uncover when and how this problem arises, how it's resolved in OpenSSL, the algorithms and techniques at play, and a Python code example to help you grasp this enigma. 🚀🎉🔐
 

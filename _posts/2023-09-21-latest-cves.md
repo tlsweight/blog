@@ -6,6 +6,7 @@ tags: [cves]
 date: 2023-09-21
 categories: [security, cves]
 author: vkosuri
+tages: [featured]
 ---
 
 In the fast-paced world of cybersecurity, staying updated on the latest vulnerabilities is paramount. The National Vulnerability Database (NVD) offers a REST API that simplifies this task. Let's explore how you can harness this API to access the most recent Common Vulnerabilities and Exposures (CVEs).

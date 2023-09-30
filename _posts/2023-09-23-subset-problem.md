@@ -5,7 +5,7 @@ date: 2023-09-23
 categories: [Crypto-Math-Series]
 image: assets/images/subset_problem.jpg
 author: vkosuri
-tags: [featured]
+tags: [Cryptography, Security, Encryption]
 ---
 Welcome back to our "Crypto Math Series," where we embark on a thrilling journey through the intricate world of cryptography. In this episode, we unravel the mysteries of the Subset Sum Problem, a mathematical enigma with profound implications in modern cryptography. Join us as we explore its historical significance, its pivotal role in today's cryptographic landscape, the brilliant minds behind its discovery, techniques for resolution (including the use of OpenSSL), the latest advancements, and a Python simulation that brings this problem to life. 🚀🎯🔢🔐
 

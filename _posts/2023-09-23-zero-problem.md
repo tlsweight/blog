@@ -5,7 +5,7 @@ date: 2023-09-23
 categories: [Crypto-Math-Series]
 image: assets/images/zero_problem.jpg
 author: vkosuri
-tags: [featured]
+tags: [Cryptography, Security, Encryption]
 ---
 Welcome back to our "Crypto Math Series," where we continue our journey through the intricate world of cryptography. Today, we unveil the mysteries of Zero-Knowledge Proof Problems, a cornerstone in ensuring secure verification without revealing sensitive information. Join us as we explore when and where these problems emerge, the lurking threats posed by malicious intermediaries, methods of detection and resolution, and even simulate a Zero-Knowledge Proof scenario using Python. 🚀🤫🔢🔒
 

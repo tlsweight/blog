@@ -5,7 +5,7 @@ date: 2023-09-23
 categories: [Crypto-Math-Series]
 image: assets/images/discrete_log_problem.jpg
 author: vkosuri
-tags: [featured]
+tags: [Cryptography, Security, Encryption]
 ---
 
 Welcome back to our "Crypto Math Series," where we continue our quest to unravel the mysteries of cryptography. Today, we're venturing into the world of the Discrete Logarithm Problem, a challenge that plays a vital role in securing online transactions. Join us as we dive into when and how this problem arises and discover practical steps to avoid its pitfalls. 🚀🔢🔐

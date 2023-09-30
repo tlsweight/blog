@@ -5,7 +5,7 @@ date: 2023-09-23
 categories: [Crypto-Math-Series]
 image: assets/images/knapsack_problem.jpg
 author: vkosuri
-tags: [featured]
+tags: [Cryptography, Security, Encryption]
 ---
 Welcome back to our "Crypto Math Series," where we embark on a thrilling journey through the intricate world of cryptography. In this episode, we unveil not one but two cryptographic enigmas: the Knapsack Problem and the Zero-Knowledge Proof Problems. These puzzles, born from different eras, now stand as guardians of secure communication. Join us as we explore their historical significance, cryptographic synergy, brilliant minds behind their discoveries, resolution techniques, and real-world scenarios where attacks are thwarted with the aid of specialized tools and vendors. 🚀🎒🔢🔒🤫
 

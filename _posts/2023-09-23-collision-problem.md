@@ -5,7 +5,7 @@ date: 2023-09-23
 categories: [Crypto-Math-Series]
 image: assets/images/collision_problem.jpg
 author: vkosuri
-tags: [featured]
+tags: [security, crypto]
 ---
 Welcome back to our "Crypto Math Series," where we unravel the intricacies of cryptography, one puzzle at a time. In this episode, we shine a spotlight on the crucial concept of Collision Resistance, a cornerstone of secure cryptographic systems. Join us as we explore the technical details of this problem, its historical introduction, the algorithms used to find and resolve it, and a Python example with friendly comments to illustrate the challenge and its solution. 🚀🚧🔑
 

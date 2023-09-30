@@ -5,7 +5,7 @@ date: 2023-09-23
 categories: [Crypto-Math-Series]
 image: assets/images/sieve_problem.jpg
 author: vkosuri
-tags: [featured]
+tags: [Cryptography, Security, Encryption]
 ---
 Welcome back to our "Crypto Math Series," where we journey through the captivating world of cryptography. In this episode, we unveil the fascinating realm of Sieve Algorithms, ancient mathematical techniques that continue to shape our digital landscape. Join us as we delve into their historical significance, the pressing need to resolve their challenges, a Python example accompanied by detailed documentation, techniques for resolution, and the lurking threats posed by attackers seeking to exploit these algorithms in website attacks. 🚀🧮🌐🔒
 

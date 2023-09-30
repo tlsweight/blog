@@ -5,7 +5,7 @@ date: 2023-09-23
 categories: [Crypto-Math-Series]
 image: assets/images/prime_numbers.jpg
 author: vkosuri
-tags: [featured]
+tags: [security, crypto]
 ---
 
 Welcome back to our "Crypto Math Series," where we're diving deeper into the world of prime numbers and their crucial role in securing online transactions. These seemingly ordinary numbers become the superheroes of e-commerce, ensuring your financial data stays safe. Let's explore when and how prime numbers step in to protect your online shopping sprees and learn how to ensure their guardianship. 💳💻🔢✨

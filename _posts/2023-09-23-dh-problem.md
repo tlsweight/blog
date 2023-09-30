@@ -5,7 +5,7 @@ date: 2023-09-23
 categories: [Crypto-Math-Series]
 image: assets/images/dh_problem.jpg
 author: vkosuri
-tags: [featured]
+tags: [Cryptography, Security, Encryption]
 ---
 
 Welcome back to our "Crypto Math Series," where we journey deeper into the captivating world of cryptography. Today, we unveil the secrets behind the Diffie-Hellman Problem, a cryptographic challenge that paved the way for secure communication. Join us as we explore its historical origins, the brilliant minds behind its inception, methods of resolution, and even simulate a Diffie-Hellman scenario using Python. 🚀🤝🔢🔐

@@ -5,7 +5,7 @@ date: 2023-09-23
 categories: [Crypto-Math-Series]
 image: assets/images/ecdlp.jpg
 author: vkosuri
-tags: [featured]
+tags: [Cryptography, Security, Encryption]
 ---
 
 Welcome back to our "Crypto Math Series," where we embark on a thrilling journey into the world of cryptography. Today, we're unveiling the secrets of the Elliptic Curve Discrete Logarithm Problem (ECDLP), a cryptographic challenge that finds remarkable real-world applications. Join us as we explore when and how this problem arises, its resolution, and witness Python's prowess in action. 🚀🔄🔢🔐

@@ -1,6 +1,6 @@
 # Site
-name: "TLS, FIPS, AI/ML, and More"
-description: 'Your trusted source for cybersecurity insights, powered by the latest in technology and expert knowledge. Stay secure, stay informed.'
+name: "Security Insights: Lightweight Crypto, FIPS, AI/ML"
+description: "Stay updated on security trends with a focus on Lightweight Crypto, FIPS compliance, and AI/ML advancements."
 logo: 'assets/images/tlsweight_log.png'
 favicon: 'assets/images/favicon_package_v0.16/favicon.ico'
 baseurl: ''
@@ -25,7 +25,7 @@ authors:
       name:           vkosuri
       site:           https://vkosuri.github.io/
       avatar:         assets/images/avatar.jpg
-      bio:            "Not a native English speaker or writer, Deutsch Learner, love to explore new ideas and document!."
+      bio:            "I'm a security product enthusiast, constantly exploring new ideas and documenting my journey. While I'm not a native English speaker, I'm passionate about the world of security and eager to contribute to its evolution."
       email:          malli.kv2@gmail.com
       twitter:        https://twitter.com/mallikarjunarao
       linkdin:        https://www.linkedin.com/in/mallikarjunaraok/

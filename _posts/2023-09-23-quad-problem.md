@@ -5,7 +5,7 @@ date: 2023-09-23
 categories: [Crypto-Math-Series]
 image: assets/images/quad_problem.jpg
 author: vkosuri
-tags: [featured]
+tags: [Cryptography, Security, Encryption]
 ---
 Welcome back to our "Crypto Math Series," where we journey through the captivating world of cryptography. Today, we unlock the mysteries of the Quadratic Residuosity Problem, a pivotal challenge in the pursuit of secure foundations for digital communication. Join us as we explore its historical significance, the driving forces behind its resolution, and even simulate a Quadratic Residuosity scenario using Python. 🚀🤔🔢🔐
 

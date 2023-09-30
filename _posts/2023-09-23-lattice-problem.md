@@ -5,7 +5,7 @@ date: 2023-09-23
 categories: [Crypto-Math-Series]
 image: assets/images/lattice_problem.jpg
 author: vkosuri
-tags: [featured]
+tags: [Cryptography, Security, Encryption]
 ---
 
 Welcome back to our "Crypto Math Series," where we venture into the fascinating world of cryptography. Today, we're delving deep into the enigmatic realm of Lattice-Based Problems, a cryptographic challenge that's reshaping the landscape of digital security. Join us as we explore the historical significance, methods of resolution, and even simulate a lattice-based problem using Python. 🚀🌐🔢🔍
