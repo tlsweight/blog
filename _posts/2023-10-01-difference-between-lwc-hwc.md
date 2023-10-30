@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🔐 Decoding the Magic: Unveiling the Difference Between Lightweight and Heavyweight Ciphers 🚀 - A Journey Into Cryptographic Worlds 🌐"
-image: assets/images/lightweight_crypto.jpg
+image: assets/images/crypto/ciphers.jpg
 date: 2023-09-30
 author: vkosuri
 categories: [Cryptography, Security]
