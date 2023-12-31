@@ -5,7 +5,7 @@ image: assets/images/other/icap.jpg
 date: 2023-11-05
 author: vkosuri
 categories: [ICAP, Proxy]
-tags: [featured, proxy, icap]
+tags: [proxy, icap]
 ---
 
 **Introduction**

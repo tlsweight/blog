@@ -6,7 +6,6 @@ tags: [tools]
 date: 2023-09-18
 categories: [security]
 author: vkosuri
-tags: [featured]
 ---
 **Unlocking the Arsenal of Cybersecurity Tools: A Thrilling Journey**
 
